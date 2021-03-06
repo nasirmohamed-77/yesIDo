@@ -1,6 +1,7 @@
-# yes I Do
-# Abdinasir Mohamed Salah
+ # Abdinasir Mohamed Salah
 # ID 1818511
+
+ waxan halkan ku diyaara game guessing 
 
 
 
